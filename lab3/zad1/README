@@ -1,0 +1,1 @@
+Program oblicza n-tą liczbę ciągu fibonacciego za pomocą rekurencji i pętli wywołując funkcje napisane w assemblerze z poziomu C oraz porównuje czas wykonania w cyklach.

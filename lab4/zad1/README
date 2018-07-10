@@ -1,0 +1,2 @@
+Program obliczajacy calke z uzyciem fpu.
+Aby sprawdzić wynik należy wykonać make, uruchomić w gdb, ustawić breakpoint na 'koniec', wykonać krok komendą 's' i wpisać info all. Wynik znajduje się w rejestrze %st0.

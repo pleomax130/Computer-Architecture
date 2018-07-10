@@ -1,0 +1,4 @@
+Program obliczający całke z użyciem fpu oraz sse i porównuje czas wykonania.
+Komenda make wywołuje program.
+Czas wykonania obliczeń z wykorzystaniem fpu wyświetla się po etykiecie t1.
+Czas wykonania obliczeń z wykorzystaniem sse wyświetla się po etykiecie t2.

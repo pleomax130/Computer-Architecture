@@ -1,0 +1,2 @@
+Program oblicza n-ta liczbę ciągu fibonacciego odwołując sie do pamięci.
+Aby sprawdzić wynik należy uruchomić program za pomocą gdb, zatrzymać na etykiecie gdb i sprawdzić zawartośc bufora numberB gdzie przechowywany jest wynik.

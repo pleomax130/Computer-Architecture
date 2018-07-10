@@ -1,0 +1,2 @@
+Program sprawdzający ile bajtów mieści jedna linia pamięci cache.
+Program wyświetla czasy odwołania sie do pamięci. Ilość wyników pomiędzy z wyraźnie większymi wartościami pomnożona przez 4 daje liczbę bajtów w jednej linii.

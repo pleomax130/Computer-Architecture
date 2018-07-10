@@ -1,0 +1,2 @@
+Program oblicza n-ta liczbe ciagu fibonacciego operując tylko na rejestrach.
+Aby sprawdzić wynik należy uruchomić program za pomocą gdb, zatrzymać na etykiecie gdb i sprawdzić zawartośc rejestru %ebx gdzie przechowywany jest wynik.
